@@ -52,11 +52,17 @@ body {
 }
 
 .my-dad {
+
     box-shadow: 5px 10px 40px rgb(199, 12, 12);
     width: 40%;
     padding-left: 20px;
     margin-left: 5%;
     margin-right: 5%;
+    border-left: 10;
+    border-color: blue;
+
+
+
 }
 
 .daddy {
@@ -67,4 +73,10 @@ body {
 
 .sir {
     color: blue;
+}
+
+footer p {
+    text-align: center;
+    color: rgb(182, 24, 24);
+    o
 }
