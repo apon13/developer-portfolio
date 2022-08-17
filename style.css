@@ -23,3 +23,12 @@ section {
     font-weight: 700;
 
 }
+
+.my-border {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.new {
+    margin: 0;
+}
