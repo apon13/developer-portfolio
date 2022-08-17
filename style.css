@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+}
+
+.ap {
+    color: brown;
+}
+
+section {
+    display: flex;
+}
+
+.our {
+    padding: 5%;
+}
+
+.sadia {
+    text-decoration: none;
+    background-color: brown;
+    color: rgb(15, 68, 114);
+    border-radius: 20px;
+    font-weight: 700;
+
+}
