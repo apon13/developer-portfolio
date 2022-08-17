@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto Slab', serif;
     font-size: 50px;
+    margin: 0;
 }
 
 .ap {
@@ -17,7 +18,7 @@ section {
 
 .sadia {
     text-decoration: none;
-    background-color: brown;
+    background-image: linear-gradient(red, brown);
     color: rgb(15, 68, 114);
     border-radius: 20px;
     font-weight: 700;
@@ -27,8 +28,18 @@ section {
 .my-border {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 50px
 }
 
 .new {
     margin: 0;
+}
+
+.happy {
+    margin-left: 20px;
+}
+
+.my-border {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
 }
